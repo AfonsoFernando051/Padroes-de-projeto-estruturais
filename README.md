@@ -6,3 +6,6 @@ Padrão Adapter:
 
 Padrão Bridge:
     O padrão Bridge é um padrão de design estrutural que separa a abstração da implementação para que elas possam variar independentemente umas das outras. Ele é útil quando você tem hierarquias de classes que têm duas dimensões de variação, como uma hierarquia de classes de formas e uma hierarquia de classes de renderização. O padrão Bridge permite que você trate essas duas hierarquias de forma independente e possa combiná-las de forma flexível.
+
+Padrão Composite
+    O padrão Composite é um padrão de design estrutural que permite que você trate objetos individuais e composições de objetos de maneira uniforme. Ele permite que você construa hierarquias de objetos em forma de árvore, onde tanto os objetos individuais quanto as composições de objetos são tratados da mesma maneira.
