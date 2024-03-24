@@ -9,3 +9,6 @@ Padrão Bridge:
 
 Padrão Composite
     O padrão Composite é um padrão de design estrutural que permite que você trate objetos individuais e composições de objetos de maneira uniforme. Ele permite que você construa hierarquias de objetos em forma de árvore, onde tanto os objetos individuais quanto as composições de objetos são tratados da mesma maneira.
+
+Padrão Decorator
+    O padrão de design Decorator é um padrão estrutural que permite adicionar comportamentos ou responsabilidades adicionais a objetos de forma dinâmica, sem alterar sua estrutura básica. Isso é alcançado através da criação de uma série de classes decoradoras que envolvem o objeto original.
