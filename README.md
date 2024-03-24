@@ -18,3 +18,6 @@ Padrão Facade:
 
 Padrão Flyweight:
     O padrão de design Flyweight é um padrão estrutural que visa minimizar o uso de memória ou recursos do sistema, compartilhando o máximo possível de dados com objetos similares. Ele é útil quando você precisa criar um grande número de objetos que compartilham características semelhantes e muitas vezes podem ser representados de forma mais eficiente compartilhando algumas partes de estado.
+
+Padrão Proxy:
+    O padrão de design Proxy é um padrão estrutural que permite controlar o acesso a um objeto por meio de outro objeto intermediário, conhecido como proxy. O proxy age como um substituto ou representante de um objeto, controlando o acesso a ele.
